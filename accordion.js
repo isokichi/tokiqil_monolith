@@ -35,5 +35,5 @@ function submitAnswer(){
 }
 
 function tweetClear(){
-  window.location.href = "https://twitter.com/intent/tweet?text=ESC%C3%97TOKIQIL%0A%E3%80%90MONOLITH%EF%BC%9ARED%E3%80%91%E3%82%92%E8%A7%A3%E6%98%8E%E3%81%97%E3%81%9F%EF%BC%81";
+  window.location.href = "https://twitter.com/intent/tweet?text=%23%E3%83%88%E3%82%AD%E3%82%AD%E3%83%AB%20012%20%E8%A7%A3%E8%AA%AD%E6%88%90%E5%8A%9F%0Ahttps%3A%2F%2Ft.co%2F9qHVA1gehP";
 }
